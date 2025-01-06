@@ -108,6 +108,9 @@ Exemplo da mensagem que deve ser consumida:
 
 ![image](https://github.com/user-attachments/assets/ce868767-bbf6-4cbc-80f7-f42055095974)
 
+![image](https://github.com/user-attachments/assets/ed3c3d68-e36d-448d-899c-2f58f8d462e0)
+
+
 
 
 
