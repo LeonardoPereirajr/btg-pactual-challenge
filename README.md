@@ -101,3 +101,13 @@ Exemplo da mensagem que deve ser consumida:
 ## DIAGRAMA DO FLUXO DE INFORMACAO
   
 ![img.png](src/main/java/pereirasistemas/leo/btgpactual/orderms/controller/img.png)
+
+![image](https://github.com/user-attachments/assets/90b2b2c1-452b-46bb-8668-09b2f2e7c58a)
+
+![image](https://github.com/user-attachments/assets/7774562e-1c27-4a52-9f99-ff8aafb2e85c)
+
+![image](https://github.com/user-attachments/assets/ce868767-bbf6-4cbc-80f7-f42055095974)
+
+
+
+
